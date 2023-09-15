@@ -1,4 +1,4 @@
-# totalitycorp-frontend-challenge
+# ecommerce app
 
 This is a front-end e-commerce project built using React, HTML, CSS, JavaScript, and React Bootstrap. It provides a user-friendly online shopping experience with the following features:
 1.The project aimed to create a frontend e-commerce website with essential shopping functionalities such as product filtering, searching, adding items to the cart and removing items from the cart, and providing delivery details.
