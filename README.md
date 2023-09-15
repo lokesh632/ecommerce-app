@@ -1,1 +1,1 @@
-# ecommerce-shop-starter
+# totalitycorp-frontend-challenge
